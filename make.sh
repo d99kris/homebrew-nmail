@@ -66,5 +66,6 @@ git log @{u}..
 echo ""
 echo "to push run:"
 echo "git push"
+echo ""
 
 exit 0
