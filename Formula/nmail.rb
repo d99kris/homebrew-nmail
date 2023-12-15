@@ -1,8 +1,8 @@
 class Nmail < Formula
   desc "Terminal-based email client"
   homepage "https://github.com/d99kris/nmail"
-  url "https://github.com/d99kris/nmail/archive/refs/tags/v3.67.tar.gz"
-  sha256 "f7963bd510069d5f0f8fdf453ee0aea87facfe3c31a7552f12110867b9664e6e"
+  url "https://github.com/d99kris/nmail/archive/refs/tags/v4.30.tar.gz"
+  sha256 "002f32ecd9b7aea0a1e5ba9ab17c5e4f0c76c89ce4db220ad955b8ab251591c9"
   license "MIT"
 
   depends_on "ccache"
